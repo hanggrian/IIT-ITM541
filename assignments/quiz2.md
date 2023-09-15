@@ -1,6 +1,6 @@
 <style type="text/css"> ol { list-style-type: upper-alpha; } </style>
 
-# Quiz 1
+# Quiz 2
 
 ## Problem 1
 
