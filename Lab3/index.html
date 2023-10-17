@@ -1,0 +1,73 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <title>Tip Calculator</title>
+
+  <meta http-equiv="X-UA-Compatible" content="chrome=1">
+
+  <link rel="stylesheet" href="styles/main.css">
+  <link rel="stylesheet" href="styles/calculator.css">
+  <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+
+  <!-- Primary meta tags -->
+  <meta name="title" content="Materialist Theme">
+  <meta name="description" content="Modernist theme with material design">
+</head>
+
+<body>
+  <div class="wrapper">
+    <header>
+      <h1>Tip Calculator</h1>
+      <p>ITMD 4/541 - Lab 3 - Hendra Wijaya</p>
+      <p class="view"><a href="http://github.com/hendraanggrian/IIT-ITM541/">View the Project on GitHub
+          <small>hendraanggrian/IIT-ITM541</small></a></p>
+      <ul>
+        <li><a href="https://github.com/hendraanggrian/IIT-ITM541/zipball/main/">Download <strong>ZIP File</strong></a>
+        </li>
+        <li><a href="https://github.com/hendraanggrian/IIT-ITM541/tarball/main/">Download <strong>TAR Ball</strong></a>
+        </li>
+        <li><a href="http://github.com/hendraanggrian/IIT-ITM541/">View On <strong>GitHub</strong></a></li>
+      </ul>
+    </header>
+    <section>
+      <h2 style="text-align: center;">Tip Calculator</h2>
+      <p>
+        <div class="form-container">
+          <form>
+            <label for="bill-total">Bill Total:</label>
+            <label>$</label>
+            <input class="input-full" id="bill-total" type="text">
+
+            <label for="tip-percentage">Tip Percentage:</label>
+            <label></label>
+            <input id="tip-percentage" type="range" min="0" max="100" value="10">
+            <input id="tip-percentage2" type="text">
+            <label type="text">%</label>
+
+            <label for="tip-amount">Tip Amount:</label>
+            <label>$</label>
+            <input class="input-full" id="tip-amount" type="text">
+
+            <label for="total-bill-with-tip">Total Bill with Tip:</label>
+            <label>$</label>
+            <input class="input-full" id="total-bill-with-tip" type="text">
+          </form>
+        </div>
+      </p>
+      <h4 style="margin-top: 60px;">About</h4>
+      <p>Welcome to the Tip Calculator, a simple web application that calculates the total charge given a base bill and an additional tip. The input bill and tip must be in the form of a number, or the value will reset to the original. The result is calculated automatically on input change.</p>
+      <h6>Webpage Theme</h6>
+      <p>This landing webpage was created using my <a href="https://github.com/hendraanggrian/materialist-theme/">website theme</a>. It is a fork of <a href="https://github.com/orderedlist/modernist">modernist</a> theme that swaps the classic view with a colorful material design style.</p>
+    </section>
+  </div>
+  <footer>
+    <p>Project maintained by <a href="http://github.com/hendraanggrian/">Hendra Anggrian</a></p>
+    <p>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist/">orderedlist</a></p>
+  </footer>
+  <script src="scripts/scale.fix.js"></script>
+  <script src="scripts/calculator.js"></script>
+</body>
+
+</html>

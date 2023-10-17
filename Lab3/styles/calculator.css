@@ -1,0 +1,27 @@
+.form-container {
+  width: 70%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: -30px;
+}
+
+form {
+  display: grid;
+  grid-template-columns: auto auto 1fr 50px auto;
+  grid-gap: 10px;
+}
+
+label {
+  text-align: right;
+  white-space: wrap;
+}
+
+.input-full {
+  grid-column: span 3;
+}
+
+@media print, screen and (max-width:580px) {
+  .form-container {
+    width: 90%;
+  }
+}
