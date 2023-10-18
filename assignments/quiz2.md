@@ -1,4 +1,4 @@
-<style type="text/css"> ol { list-style-type: upper-alpha; } </style>
+<style type="text/css">ol { list-style-type: upper-alpha; }</style>
 
 # Quiz 2
 
