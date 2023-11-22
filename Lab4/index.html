@@ -1,0 +1,337 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <title>ITMD 4/541 - Lab 4</title>
+
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Boootstrap Portfolio/Resume Theme for Developers">
+  <meta name="author" content="Xiaoying Riley at 3rd Wave Media">
+  <link rel="shortcut icon" href="favicon.ico">
+
+  <link href='https://fonts.googleapis.com/css?family=Lato:300,400,300italic,400italic' rel='stylesheet' type='text/css'>
+  <link href='https://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
+
+  <script defer src="assets/fontawesome/js/all.js"></script>
+  <link rel="stylesheet" href="assets/plugins/bootstrap/css/bootstrap.min.css">
+  <link id="theme-style" rel="stylesheet" href="assets/css/styles.css">
+</head>
+
+<body>
+  <header class="header">
+    <div class="container">
+      <div class="row align-items-center">
+        <div class="col">
+          <img class="profile-image img-fluid float-start rounded-circle"
+            src="https://source.unsplash.com/trees-under-cloudy-sky-during-sunset--G3rw6Y02D0/180x180"
+            alt="profile image"/>
+          <div class="profile-content">
+            <h1 class="name">Sunrise and Sunset</h1>
+            <h2 class="desc">Hendra Wijaya</h2>
+          </div>
+        </div>
+        <div class="col-12 col-md-auto">
+          <div class="dark-mode-switch d-flex">
+            <div class="form-check form-switch mx-auto mx-md-0">
+              <input type="checkbox" class="form-check-input me-2" id="darkSwitch"/>
+              <label class="custom-control-label" for="darkSwitch">Dark Mode</label>
+            </div>
+          </div>
+          <a class="btn btn-cta-primary" href="https://github.com/hendraanggrian/" target="_blank">
+            <i class="fas fa-paper-plane"></i>&ensp;Contact Me
+          </a>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <div class="container sections-wrapper py-5">
+    <div class="row">
+      <div class="primary col-lg-8 col-12">
+        <aside class="skills aside section">
+          <div class="section-inner shadow-sm rounded">
+            <h2 class="heading">Next Timeline</h2>
+            <div class="content">
+              <p class="intro">
+                The day length of
+                <label id="next-day">yyyy-MM-dd</label>
+                is
+                <strong id="next-daylength">HH hours mm minutes ss seconds</strong>.
+              </p>
+              <div class="skillset">
+                <div class="item">
+                  <h3 class="level-title">
+                    Sunrise (<label id="next-sunrise">HH:mm:ss</label>)
+                    <span class="level-label" data-bs-toggle="tooltip" data-bs-placement="left">
+                      <i class="fas fa-hourglass"></i>
+                      <label id="next-sunrise-remaining">HH:mm:ss</label>
+                    </span>
+                  </h3>
+
+                  <div class="level-bar progress">
+                    <div id="next-sunrise-progress" class="progress-bar level-bar-inner" role="progressbar" style="width: 0%" aria-valuenow="0" aria-valuemin="0" aria-valuemax="0">
+                    </div>
+                  </div>
+                </div>
+
+                <div class="item">
+                  <h3 class="level-title">
+                    Sunset (<label id="next-sunset">HH:mm:ss</label>)
+                    <span class="level-label" data-bs-toggle="tooltip" data-bs-placement="left">
+                      <i class="fas fa-hourglass"></i>
+                      <label id="next-sunset-remaining">HH:mm:ss</label>
+                    </span>
+                  </h3>
+                  <div class="level-bar progress">
+                    <div id="next-sunset-progress" class="progress-bar level-bar-inner" role="progressbar" style="width: 0%" aria-valuenow="0" aria-valuemin="0" aria-valuemax="0">
+                    </div>
+                  </div>
+                </div>
+
+                <div class="item">
+                  <h3 class="level-title">
+                    Dawn (<label id="next-dawn">HH:mm:ss</label>)
+                    <span class="level-label" data-bs-toggle="tooltip" data-bs-placement="left">
+                      <i class="fas fa-hourglass"></i>
+                      <label id="next-dawn-remaining">HH:mm:ss</label>
+                    </span>
+                  </h3>
+                  <div class="level-bar progress">
+                    <div id="next-dawn-progress" class="progress-bar level-bar-inner" role="progressbar" style="width: 0%" aria-valuenow="0" aria-valuemin="0" aria-valuemax="0">
+                    </div>
+                  </div>
+                </div>
+
+                <div class="item">
+                  <h3 class="level-title">
+                    Dusk (<label id="next-dusk">HH:mm:ss</label>)
+                    <span class="level-label" data-bs-toggle="tooltip" data-bs-placement="left">
+                      <i class="fas fa-hourglass"></i>
+                      <label id="next-dusk-remaining">HH:mm:ss</label>
+                    </span>
+                  </h3>
+                  <div class="level-bar progress">
+                    <div id="next-dusk-progress" class="progress-bar level-bar-inner" role="progressbar" style="width: 0%" aria-valuenow="0" aria-valuemin="0" aria-valuemax="0">
+                    </div>
+                  </div>
+                </div>
+
+                <div class="item">
+                  <h3 class="level-title">
+                    Solar noon (<label id="next-solarnoon">HH:mm:ss</label>)
+                    <span class="level-label" data-bs-toggle="tooltip" data-bs-placement="left">
+                      <i class="fas fa-hourglass"></i>
+                      <label id="next-solarnoon-remaining">HH:mm:ss</label>
+                    </span>
+                  </h3>
+                  <div class="level-bar progress">
+                    <div id="next-solarnoon-progress" class="progress-bar level-bar-inner" role="progressbar" style="width: 0%" aria-valuenow="0" aria-valuemin="0" aria-valuemax="0">
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </aside>
+
+        <aside class="skills aside section">
+          <div class="section-inner shadow-sm rounded">
+            <h2 class="heading">Tomorrow's Timeline</h2>
+            <div class="content">
+              <p class="intro">
+                The day length of
+                <label id="tomorrow-day">yyyy-MM-dd</label>
+                is
+                <strong id="tomorrow-daylength">HH hours mm minutes ss seconds</strong>.
+              </p>
+              <div class="skillset">
+                <div class="item">
+                  <h3 class="level-title">
+                    Sunrise (<label id="tomorrow-sunrise">HH:mm:ss</label>)
+                    <span class="level-label" data-bs-toggle="tooltip" data-bs-placement="left">
+                      <i class="fas fa-hourglass"></i>
+                      <label id="tomorrow-sunrise-remaining">HH:mm:ss</label>
+                    </span>
+                  </h3>
+
+                  <div class="level-bar progress">
+                    <div id="tomorrow-sunrise-progress" class="progress-bar level-bar-inner" role="progressbar" style="width: 0%" aria-valuenow="0" aria-valuemin="0" aria-valuemax="0">
+                    </div>
+                  </div>
+                </div>
+
+                <div class="item">
+                  <h3 class="level-title">
+                    Sunset (<label id="tomorrow-sunset">HH:mm:ss</label>)
+                    <span class="level-label" data-bs-toggle="tooltip" data-bs-placement="left">
+                      <i class="fas fa-hourglass"></i>
+                      <label id="tomorrow-sunset-remaining">HH:mm:ss</label>
+                    </span>
+                  </h3>
+                  <div class="level-bar progress">
+                    <div id="tomorrow-sunset-progress" class="progress-bar level-bar-inner" role="progressbar" style="width: 0%" aria-valuenow="0" aria-valuemin="0" aria-valuemax="0">
+                    </div>
+                  </div>
+                </div>
+
+                <div class="item">
+                  <h3 class="level-title">
+                    Dawn (<label id="tomorrow-dawn">HH:mm:ss</label>)
+                    <span class="level-label" data-bs-toggle="tooltip" data-bs-placement="left">
+                      <i class="fas fa-hourglass"></i>
+                      <label id="tomorrow-dawn-remaining">HH:mm:ss</label>
+                  </h3>
+                  <div class="level-bar progress">
+                    <div id="tomorrow-dawn-progress" class="progress-bar level-bar-inner" role="progressbar" style="width: 0%" aria-valuenow="0" aria-valuemin="0" aria-valuemax="0">
+                    </div>
+                  </div>
+                </div>
+
+                <div class="item">
+                  <h3 class="level-title">
+                    Dusk (<label id="tomorrow-dusk">HH:mm:ss</label>)
+                    <span class="level-label" data-bs-toggle="tooltip" data-bs-placement="left">
+                      <i class="fas fa-hourglass"></i>
+                      <label id="tomorrow-dusk-remaining">HH:mm:ss</label>
+                    </span>
+                  </h3>
+                  <div class="level-bar progress">
+                    <div id="tomorrow-dusk-progress" class="progress-bar level-bar-inner" role="progressbar" style="width: 0%" aria-valuenow="0" aria-valuemin="0" aria-valuemax="0">
+                    </div>
+                  </div>
+                </div>
+
+                <div class="item">
+                  <h3 class="level-title">
+                    Solar noon (<label id="tomorrow-solarnoon">HH:mm:ss</label>)
+                    <span class="level-label" data-bs-toggle="tooltip" data-bs-placement="left">
+                      <i class="fas fa-hourglass"></i>
+                      <label id="tomorrow-solarnoon-remaining">HH:mm:ss</label>
+                    </span>
+                  </h3>
+                  <div class="level-bar progress">
+                    <div id="tomorrow-solarnoon-progress" class="progress-bar level-bar-inner" role="progressbar" style="width: 0%" aria-valuenow="0" aria-valuemin="0" aria-valuemax="0">
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </aside>
+      </div>
+      <div class="secondary col-lg-4 col-12">
+        <aside class="info aside section">
+          <div class="section-inner shadow-sm rounded">
+              <h2 class="heading">Area</h2>
+              <div class="content">
+                  <ul class="list-unstyled">
+                      <li>
+                        <i class="fas fa-map-marker-alt"></i>
+                        &nbsp;<label id="area-location">Location</label>
+                      </li>
+                      <li>
+                        <i class="fas fa-clock"></i>
+                        &nbsp;<label id="area-timezone">Timezone</label>
+                      </li>
+                  </ul>
+              </div>
+          </div>
+        </aside>
+
+        <section class="about section">
+          <div class="section-inner shadow-sm rounded">
+            <h2 class="heading">About</h2>
+            <div class="content">
+              <p>
+                One page scrolling website that shows sunset and sunrise times at the given current
+                location. There is a small dashboard-style interface that displays how much time
+                left until the next event of interest.
+              </p>
+            </div>
+          </div>
+        </section>
+
+        <aside class="education aside section">
+          <div class="section-inner shadow-sm rounded">
+            <h2 class="heading">Endpoint</h2>
+            <div class="content">
+              <div class="item">
+                <h3 class="title"><i class="fas fa-sun"></i>&ensp;Sunset and Sunrise Times API</h3>
+                <a class="university" href="https://sunrisesunset.io/api/" target="_blank">
+                  https://sunrisesunset.io/api/
+                </a>
+              </div>
+              <div class="item">
+                <h3 class="title"><i class="fas fa-location-crosshairs"></i>&ensp;Free Geocoding API</h3>
+                <a class="university" href="https://geocode.maps.co/" target="_blank">
+                  https://geocode.maps.co/
+                </a>
+              </div>
+              <div class="item">
+                <h3 class="title"><i class="fas fa-globe"></i>&ensp;Where the ISS at?</h3>
+                <a class="university" href="https://wheretheiss.at/" target="_blank">
+                  https://wheretheiss.at/
+                </a>
+              </div>
+            </div>
+          </div>
+        </aside>
+
+        <aside class="credits aside section">
+          <div class="section-inner shadow-sm rounded">
+            <h2 class="heading">Credits</h2>
+            <div class="content">
+              <ul class="list-unstyled pb-2">
+                <li>
+                  <a href="https://github.com/xriley/developer-theme/" target="_blank">
+                    <i class="fas fa-external-link-alt"></i>&ensp;Developer-Theme
+                  </a>
+                </li>
+              </ul>
+
+              <hr/>
+
+              <p class="pt-2">
+                This website is originally a
+                <strong>bootstrap portfolio template for developers</strong> with
+                <a href="https://github.com/xriley/Developer-Theme/tree/master/assets/plugins" target="_blank">
+                  GitHub integration
+                </a>
+                such as calendar, activity, and project linking. The core logic has since been
+                removed and replaced with sunset and sunrise times API.
+              </p>
+              <p>
+                The styling is largely untouched from the original version. However, the layout and
+                content have been modified to fit the new purpose.
+              </p>
+
+              <a class="btn btn-cta-primary btn-download" href="https://hendraanggrian.github.io/IIT-ITM541/">
+                <i class="fas fa-file"></i>&ensp;Other lab works
+              </a>
+            </div>
+          </div>
+        </aside>
+
+      </div>
+    </div>
+  </div>
+
+  <footer class="footer">
+    <div class="container text-center">
+      <small class="copyright">
+        Designed with <span class="sr-only">love</span><i class="fas fa-heart"></i>&ensp;by
+        <a href="https://themes.3rdwavemedia.com" target="_blank">Xiaoying Riley</a> for developers
+      </small>
+    </div>
+  </footer>
+
+  <script type="text/javascript" src="assets/plugins/popper.min.js"></script>
+  <script type="text/javascript" src="assets/plugins/bootstrap/js/bootstrap.min.js"></script>
+  <script type="text/javascript" src="assets/plugins/dark-mode-switch/dark-mode-switch.min.js"></script>
+  <script type="text/javascript" src="assets/js/main.js"></script>
+  <script type="text/javascript" src="assets/js/sunrise.js"></script>
+</body>
+
+</html>
