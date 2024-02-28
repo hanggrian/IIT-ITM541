@@ -9,7 +9,7 @@
 > 1. True
 > 2. False
 
-**B**. False
+**B.** False
 
 ## Problem 2
 
@@ -21,7 +21,7 @@
 > 3. JSON. string()
 > 4. parse()
 
-**B**. JSON.stringify()
+**B.** JSON.stringify()
 
 ## Problem 3
 
@@ -30,7 +30,7 @@
 > 1. True
 > 2. False
 
-**A**. True
+**A.** True
 
 ## Problem 4
 
@@ -40,7 +40,7 @@
 > 1. True
 > 2. False
 
-**A**. True
+**A.** True
 
 ## Problem 5
 
@@ -49,7 +49,7 @@
 > 1. True
 > 2. False
 
-**A**. True
+**A.** True
 
 ## Problem 6
 
@@ -60,7 +60,7 @@
 > 1. True
 > 2. False
 
-**B**. False
+**B.** False
 
 ## Problem 7
 
@@ -74,7 +74,7 @@
 > 1. True
 > 2. False
 
-**B**. False
+**B.** False
 
 ## Problem 8
 
@@ -84,7 +84,7 @@
 > 1. True
 > 2. False
 
-**B**. False
+**B.** False
 
 ## Problem 9
 
@@ -93,7 +93,7 @@
 > 1. True
 > 2. False
 
-**A**. True
+**A.** True
 
 ## Problem 10
 
@@ -105,7 +105,7 @@
 > 3. bottom right
 > 4. bottom left
 
-**A**. top left
+**A.** top left
 
 ## Problem 11
 
@@ -115,7 +115,7 @@
 > 1. True
 > 2. False
 
-**B**. False
+**B.** False
 
 ## Problem 12
 
@@ -129,7 +129,7 @@
 > 4. Using the add event listener method on a DOM object.
     `document.getElementByld(myld').addEventListener(click', eventHandler, false);`
 
-**D**. Using the add event listener method on a DOM object.
+**D.** Using the add event listener method on a DOM object.
 
 ## Problem 13
 
@@ -140,7 +140,7 @@
 > 3. /
 > 4. +
 
-**A**. %
+**A.** %
 
 ## Problem 14
 
@@ -156,7 +156,7 @@
 > 1. True
 > 2. False
 
-**A**. True
+**A.** True
 
 ## Problem 15
 
@@ -166,7 +166,7 @@
 > 1. True
 > 2. False
 
-**B**. False
+**B.** False
 
 ## Problem 16
 
@@ -186,7 +186,7 @@
 > 3. Undefined
 > 4. Null
 
-**B**. 5
+**B.** 5
 
 ## Problem 17
 
@@ -197,7 +197,7 @@
 > 3. 2myVariable
 > 4. All of them are valid
 
-**C**. 2myVariable
+**C.** 2myVariable
 
 ## Problem 18
 
@@ -208,7 +208,7 @@
 > 3. Can use SQL syntax to access data in the database
 > 4. Storage limit that is greater than HTML5 localStorage
 
-**C**. Can use SQL syntax to access data in the database
+**C.** Can use SQL syntax to access data in the database
 
 ## Problem 19
 
@@ -219,7 +219,7 @@
 > 3. It can only be used in the JavaScript language
 > 4. Provides methods to transverse, access, and modify elements
 
-**C**. It can only be used in the JavaScript language
+**C.** It can only be used in the JavaScript language
 
 ## Problem 20
 
@@ -230,7 +230,7 @@
 > 3. onmouseover
 > 4. onchange
 
-**B**. onclick
+**B.** onclick
 
 ## Problem 21
 
@@ -264,8 +264,8 @@
 > code here
 > ```
 
-- **A**. `// comment here code here`
-- **B**. `/* comment here code here */`
+- **A.** `// comment here code here`
+- **B.** `/* comment here code here */`
 
 ## Problem 22
 
@@ -275,7 +275,7 @@
 > 1. True
 > 2. False
 
-**B**. False
+**B.** False
 
 ## Problem 23
 
@@ -302,7 +302,7 @@
 > 3. myPerson.print()
 > 4. myPerson.render()
 
-**D**. myPerson.render()
+**D.** myPerson.render()
 
 ## Problem 24
 
@@ -381,7 +381,7 @@
 > 1. True
 > 2. False
 
-**A**. True
+**A.** True
 
 ## Problem 29
 
@@ -390,7 +390,7 @@
 > 1. True
 > 2. False
 
-**B**. False
+**B.** False
 
 ## Problem 30
 
@@ -401,7 +401,7 @@
 > 3. Douglas Crockford
 > 4. Tim Berners-Lee
 
-**A**. Brendan Eich
+**A.** Brendan Eich
 
 ## Problem 31
 
@@ -412,7 +412,7 @@
 > 3. let
 > 4. this
 
-**C**. let
+**C.** let
 
 ## Problem 32
 
@@ -421,7 +421,7 @@
 > 1. True
 > 2. False
 
-**B**. False
+**B.** False
 
 ## Problem 33
 
@@ -434,7 +434,7 @@
 > 1. True
 > 2. False
 
-**A**. True
+**A.** True
 
 ## Problem 34
 
@@ -444,7 +444,7 @@
 > 1. True
 > 2. False
 
-**B**. False
+**B.** False
 
 ## Problem 35
 
@@ -456,7 +456,7 @@
 > 3. return
 > 4. componentDidMount()
 
-**A**. render()
+**A.** render()
 
 ## Problem 36
 
@@ -470,7 +470,7 @@
 > 1. True
 > 2. False
 
-**B**. False
+**B.** False
 
 ## Problem 37
 
@@ -481,7 +481,7 @@
 > 3. The number of milliseconds since January 1, 1970.
 > 4. The number of minutes since January 1, 1970.
 
-**C**. The number of milliseconds since January 1, 1970.
+**C.** The number of milliseconds since January 1, 1970.
 
 ## Problem 38
 
@@ -491,7 +491,7 @@
 > 1. True
 > 2. False
 
-**A**. True
+**A.** True
 
 ## Problem 39
 
@@ -503,7 +503,7 @@
 > 3. componentWillUnmount
 > 4. componentWillUpdate
 
-**B**. componentDidMount
+**B.** componentDidMount
 
 ## Problem 40
 
@@ -514,7 +514,7 @@
 > 3. Svariable
 > 4. &variable
 
-**B**. {variable}
+**B.** {variable}
 
 ## Problem 41
 
@@ -535,7 +535,7 @@
 > 3. Null
 > 4. Nan
 
-**A**. 10
+**A.** 10
 
 ## Problem 42
 
@@ -548,7 +548,7 @@
 > 1. True
 > 2. False
 
-**B**. False
+**B.** False
 
 ## Problem 43
 
@@ -560,7 +560,7 @@
 > 3. getElementsByTagName()
 > 4. document.querySelector()
 
-**D**. document.querySelector()
+**D.** document.querySelector()
 
 ## Problem 44
 
@@ -569,7 +569,7 @@
 > 1. True
 > 2. False
 
-**A**. True
+**A.** True
 
 ## Problem 45
 
@@ -587,7 +587,7 @@
 > 3. cake
 > 4. food
 
-**C**. cake
+**C.** cake
 
 ## Problem 46
 
@@ -604,7 +604,7 @@
 > 3. ["Cat", "Fish"]
 > 4. ["Bird", "Dog"]
 
-**C**. ["Cat", "Fish"]
+**C.** ["Cat", "Fish"]
 
 ## Problem 47
 
@@ -615,7 +615,7 @@
 > 3. Renders
 > 4. Functions
 
-**B**. Props
+**B.** Props
 
 ## Problem 48
 
@@ -625,7 +625,7 @@
 > 1. True
 > 2. False
 
-**B**. False
+**B.** False
 
 ## Problem 49
 
@@ -637,7 +637,7 @@
 > 3. Address
 > 4. Root element
 
-**B**. React element
+**B.** React element
 
 ## Problem 50
 
@@ -657,4 +657,4 @@
 > 3. Children
 > 4. Parents
 
-**A**. Types
+**A.** Types

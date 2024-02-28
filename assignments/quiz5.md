@@ -11,7 +11,7 @@
 > 3. rotate
 > 4. skew
 
-**B**. keyframes
+**B.** keyframes
 
 ## Problem 2
 
@@ -22,7 +22,7 @@
 > 3. global
 > 4. const
 
-**B**. let
+**B.** let
 
 ## Problem 3
 
@@ -37,7 +37,7 @@
 > 3. 30
 > 4. 48
 
-**A**. 46
+**A.** 46
 
 ## Problem 4
 
@@ -48,7 +48,7 @@
 > 3. number
 > 4. biginit
 
-**B**. function
+**B.** function
 
 ## Problem 5
 
@@ -65,7 +65,7 @@
 > 3. Move img down 200px
 > 4. Move img left 200px
 
-**D**. Move img left 200px
+**D.** Move img left 200px
 
 ## Problem 6
 
@@ -80,7 +80,7 @@
 > 3. 15
 > 4. 510
 
-**A**. 105
+**A.** 105
 
 ## Problem 7
 
@@ -92,7 +92,7 @@
 > 3. Function declaration
 > 4. Function name
 
-**B**. Function expression
+**B.** Function expression
 
 ## Problem 8
 
@@ -103,7 +103,7 @@
 > 1. True
 > 2. False
 
-**A**. True
+**A.** True
 
 ## Problem 9
 
@@ -112,7 +112,7 @@
 > 1. True
 > 2. False
 
-**B**. False
+**B.** False
 
 ## Problem 10
 
@@ -122,4 +122,4 @@
 > 1. True
 > 2. False
 
-**B**. False
+**B.** False

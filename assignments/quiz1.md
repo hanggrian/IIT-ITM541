@@ -11,7 +11,7 @@
 > 3. 55%
 > 4. 10%
 
-**C**. 55%
+**C.** 55%
 
 ## Problem 2
 
@@ -22,7 +22,7 @@
 > 3. The only version of HTML
 > 4. HTML 1.1 does not exist
 
-**B**. First draft with a version number, November 1993
+**B.** First draft with a version number, November 1993
 
 ## Problem 3
 
@@ -33,7 +33,7 @@
 > 3. 1990
 > 4. 2022
 
-**A**. 1996
+**A.** 1996
 
 ## Problem 4
 
@@ -44,7 +44,7 @@
 > 3. Marc Andreessen
 > 4. Tim Berners-Lee
 
-**D**. Tim Berners-Lee
+**D.** Tim Berners-Lee
 
 ## Problem 5
 
@@ -53,4 +53,4 @@
 > 1. True
 > 2. False
 
-**B**. False
+**B.** False

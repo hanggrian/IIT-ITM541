@@ -11,7 +11,7 @@
 > 3. Douglas Crockford
 > 4. Tim Berners-Lee
 
-**D**. Tim Berners-Lee
+**D.** Tim Berners-Lee
 
 ## Problem 2
 
@@ -22,7 +22,7 @@
 > 3. Robert Cailliau
 > 4. Brendan Eich
 
-**A**. Hâkon Wium Lie
+**A.** Hâkon Wium Lie
 
 ## Problem 3
 
@@ -33,7 +33,7 @@
 > 3. Tim Berners-Lee
 > 4. Douglas Crockford
 
-**B**. Brendan Eich
+**B.** Brendan Eich
 
 ## Problem 4
 
@@ -44,7 +44,7 @@
 > 3. whatwg
 > 4. Netscape
 
-**B**. ECMA International
+**B.** ECMA International
 
 ## Problem 5
 
@@ -54,7 +54,7 @@
 > 1. True
 > 2. False
 
-**A**. True
+**A.** True
 
 ## Problem 6
 
@@ -64,7 +64,7 @@
 > 1. True
 > 2. False
 
-**B**. False
+**B.** False
 
 ## Problem 7
 
@@ -73,7 +73,7 @@
 > 1. True
 > 2. False
 
-**B**. False
+**B.** False
 
 ## Problem 8
 
@@ -82,7 +82,7 @@
 > 1. True
 > 2. False
 
-**B**. False
+**B.** False
 
 ## Problem 9
 
@@ -94,7 +94,7 @@
 > 3. POST
 > 4. CONNECT
 
-**D**. CONNECT
+**D.** CONNECT
 
 ## Problem 10
 
@@ -105,7 +105,7 @@
 > 3. QUIC
 > 4. IP
 
-**A**. TCP
+**A.** TCP
 
 ## Problem 11
 
@@ -117,7 +117,7 @@
 > 3. ?
 > 4. \#
 
-**B**. &
+**B.** &
 
 ## Problem 12
 
@@ -128,7 +128,7 @@
 > 3. 4xx
 > 4. 5xx
 
-**D**. 5xx
+**D.** 5xx
 
 ## Problem 13
 
@@ -139,7 +139,7 @@
 > 3. PUT
 > 4. DELETE
 
-**B**. POST
+**B.** POST
 
 ## Problem 14
 
@@ -148,7 +148,7 @@
 > 1. True
 > 2. False
 
-**A**. True
+**A.** True
 
 ## Problem 15
 
@@ -173,7 +173,7 @@
 > 3. index.html
 > 4. my_site_index.html
 
-**B**. ../my_site/index.html
+**B.** ../my_site/index.html
 
 ## Problem 16
 
@@ -184,7 +184,7 @@
 > 3. git commit
 > 4. git view
 
-**A**. git log
+**A.** git log
 
 ## Problem 17
 
@@ -194,7 +194,7 @@
 > 1. True
 > 2. False
 
-**B**. False
+**B.** False
 
 ## Problem 18
 
@@ -206,7 +206,7 @@
 > 3. section
 > 4. figure
 
-**A**. article
+**A.** article
 
 ## Problem 19
 
@@ -219,7 +219,7 @@
 > 4. fixed
 > 5. sticky
 
-**D**. fixed
+**D.** fixed
 
 ## Problem 20
 
@@ -228,7 +228,7 @@
 > 1. True
 > 2. False
 
-**A**. True
+**A.** True
 
 ## Problem 21
 
@@ -240,7 +240,7 @@
 > 3. position
 > 4. float
 
-**B**. flexbox
+**B.** flexbox
 
 ## Problem 22
 
@@ -249,7 +249,7 @@
 > 1. True
 > 2. False
 
-**A**. True
+**A.** True
 
 ## Problem 23
 
@@ -259,7 +259,7 @@
 > 1. True
 > 2. False
 
-**B**. False
+**B.** False
 
 ## Problem 24
 
@@ -268,7 +268,7 @@
 > 1. True
 > 2. False
 
-**B**. False
+**B.** False
 
 ## Problem 25
 
@@ -280,7 +280,7 @@
 > 4. translate
 > 5. skew
 
-**A**. animate
+**A.** animate
 
 ## Problem 26
 
@@ -293,7 +293,7 @@
 > 5. &lt;scripting&gt;
 > 6. &lt;code&gt;
 
-**B**. &lt;script&gt;
+**B.** &lt;script&gt;
 
 ## Problem 27
 
@@ -305,7 +305,7 @@
 > 4. Created at Netscape
 > 5. Standardized as ECMA-262
 
-**A**. Code must be compiled before using on a site or application
+**A.** Code must be compiled before using on a site or application
 
 ## Problem 28
 
@@ -314,7 +314,7 @@
 > 1. True
 > 2. False
 
-**B**. False
+**B.** False
 
 ## Problem 29
 
@@ -326,7 +326,7 @@
 > 3. rel
 > 4. type
 
-**A**. src
+**A.** src
 
 ## Problem 30
 
@@ -335,7 +335,7 @@
 > 1. True
 > 2. False
 
-**A**. True
+**A.** True
 
 ## Problem 31
 
@@ -345,7 +345,7 @@
 > 1. True
 > 2. False
 
-**B**. False
+**B.** False
 
 ## Problem 32
 
@@ -369,7 +369,7 @@
 > 3. document.getElementByld("demo").innerHTML = "Hello World!";
 > 4. #demo.innerHTML = "Hello World!";
 
-**C**. document.getElementByld("demo").innerHTML = "Hello World!";
+**C.** document.getElementByld("demo").innerHTML = "Hello World!";
 
 ## Problem 34
 
@@ -380,7 +380,7 @@
 > 3. mouseover
 > 4. change
 
-**B**. click
+**B.** click
 
 ## Problem 35
 
@@ -389,7 +389,7 @@
 > 1. True
 > 2. False
 
-**A**. True
+**A.** True
 
 ## Problem 36
 
@@ -398,7 +398,7 @@
 > 1. True
 > 2. False
 
-**B**. False
+**B.** False
 
 ## Problem 37
 
@@ -408,7 +408,7 @@
 > 1. True
 > 2. False
 
-**B**. False
+**B.** False
 
 ## Problem 38
 
@@ -420,7 +420,7 @@
 > 3. prompt()
 > 4. input()
 
-**C**. prompt()
+**C.** prompt()
 
 ## Problem 39
 
@@ -429,7 +429,7 @@
 > 1. True
 > 2. False
 
-**B**. False
+**B.** False
 
 ## Problem 40
 
@@ -440,7 +440,7 @@
 > 3. ?
 > 4. **
 
-**A**. %
+**A.** %
 
 ## Problem 41
 
@@ -463,7 +463,7 @@
 > }
 > ```
 
-**B**.
+**B.**
 
 ```js
 var myFunction = function() {
@@ -479,7 +479,7 @@ var myFunction = function() {
 > 1. True
 > 2. False
 
-**A**. True
+**A.** True
 
 ## Problem 43
 
@@ -492,7 +492,7 @@ var myFunction = function() {
 > 3. Using the add event listener method on a DOM object.<br>
 >    `document.getElementByld (myld'. addEventListener(click', eventHandler, false);`
 
-**C**. Using the add event listener method on a DOM object.<br>
+**C.** Using the add event listener method on a DOM object.<br>
 `document.getElementByld (myld'. addEventListener(click', eventHandler, false);`
 
 ## Problem 44
@@ -513,7 +513,7 @@ var myFunction = function() {
 > 3. 6
 > 4. 12
 
-**B**. 24
+**B.** 24
 
 ## Problem 45
 
@@ -531,7 +531,7 @@ var myFunction = function() {
 > 4. 2
 > 5. True
 
-**B**. 'plane'
+**B.** 'plane'
 
 ## Problem 46
 
@@ -553,7 +553,7 @@ var myFunction = function() {
 > 3. 25
 > 4. 5
 
-**B**. 20
+**B.** 20
 
 ## Problem 47
 
@@ -563,7 +563,7 @@ var myFunction = function() {
 > 1. True
 > 2. False
 
-**A**. True
+**A.** True
 
 ## Problem 48
 
@@ -573,7 +573,7 @@ var myFunction = function() {
 > 1. True
 > 2. False
 
-**A**. True
+**A.** True
 
 ## Problem 49
 
@@ -584,7 +584,7 @@ var myFunction = function() {
 > 2. Constructor Pattern
 > 3. Factory Pattern
 
-**B**. Constructor Pattern
+**B.** Constructor Pattern
 
 ## Problem 50
 
@@ -594,7 +594,7 @@ var myFunction = function() {
 > 1. True
 > 2. False
 
-**B**. False
+**B.** False
 
 ## Problem 51
 
@@ -606,7 +606,7 @@ var myFunction = function() {
 > 3. 2
 > 4. 3
 
-**A**. 1
+**A.** 1
 
 ## Problem 52
 
@@ -619,7 +619,7 @@ var myFunction = function() {
 > 4. parentNode
 > 5. originalTarget
 
-**B**. target
+**B.** target
 
 ## Problem 53
 
@@ -632,7 +632,7 @@ var myFunction = function() {
 > 4. getElementsByClassName
 > 5. getElementByld
 
-**A**. querySelector
+**A.** querySelector
 
 ## Problem 54
 
@@ -644,7 +644,7 @@ var myFunction = function() {
 > 3. selected
 > 4. placeholder
 
-**B**. value
+**B.** value
 
 ## Problem 55
 
@@ -655,7 +655,7 @@ var myFunction = function() {
 > 3. string
 > 4. integer
 
-**A**. function
+**A.** function
 
 ## Problem 56
 
@@ -688,7 +688,7 @@ var myFunction = function() {
 > 3. bottom right
 > 4. bottom left
 
-**A**. top right
+**A.** top right
 
 ## Problem 57
 
@@ -699,7 +699,7 @@ var myFunction = function() {
 > 3. string
 > 4. object
 
-**C**. string
+**C.** string
 
 ## Problem 58
 
@@ -717,7 +717,7 @@ var myFunction = function() {
 > 3. bob
 > 4. There will be a runtime error in the code
 
-**C**. bob
+**C.** bob
 
 ## Problem 59
 

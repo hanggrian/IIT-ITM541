@@ -11,7 +11,7 @@
 > 3. First designed by Tim Berners-Lee at CERN
 > 4. HTTP through an encrypted SSL/TLS connection
 
-**C**. First designed by Tim Berners-Lee at CERN
+**C.** First designed by Tim Berners-Lee at CERN
 
 ## Problem 2
 
@@ -22,7 +22,7 @@
 > 3. НТТР/1.1
 > 4. HTTP/1.5
 
-**B**. HTTP/0.9
+**B.** HTTP/0.9
 
 ## Problem 3
 
@@ -35,7 +35,7 @@
     Datagram Protocol) instead of TCP
 > 4. Standard published on June 6, 2022
 
-**A**. Binary protocol versus a text protocol
+**A.** Binary protocol versus a text protocol
 
 ## Problem 4
 
@@ -46,7 +46,7 @@
 > 3. PATCH
 > 4. TRACE
 
-**C**. PATCH
+**C.** PATCH
 
 ## Problem 5
 
@@ -57,7 +57,7 @@
 > 3. 302
 > 4. 401
 
-**D**. 401
+**D.** 401
 
 ## Problem 6
 
@@ -67,4 +67,4 @@
 > 1. True
 > 2. False
 
-**A**. True
+**A.** True

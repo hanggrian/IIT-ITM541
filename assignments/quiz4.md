@@ -11,7 +11,7 @@
 > 3. Flexbox
 > 4. Table Layout
 
-**A**. Button Layout
+**A.** Button Layout
 
 ## Problem 2
 
@@ -22,7 +22,7 @@
 > 3. Display Property and Positioning
 > 4. Normal Flow and Floats
 
-**A**. Flexbox and Grid
+**A.** Flexbox and Grid
 
 ## Problem 3
 
@@ -33,7 +33,7 @@
 > 3. Grid
 > 4. Flexbox
 
-**C**. Grid
+**C.** Grid
 
 ## Problem 4
 
@@ -45,7 +45,7 @@
 > 3. Fluid Grids/layouts
 > 4. Media Queries
 
-**B**. Fluid Flexbox
+**B.** Fluid Flexbox
 
 ## Problem 5
 
@@ -56,7 +56,7 @@
 > 3. `&media` type and (feature)
 > 4. `#media` type and (feature)
 
-**A**. `@media` type and (feature)
+**A.** `@media` type and (feature)
 
 ## Problem 6
 
@@ -71,7 +71,7 @@
 > 3. If [device width] is greater than or equal to 600px, then do {…}
 > 4. If [device width] is less than or equal to 600px, then do {…}
 
-**C**. If [device width] is greater than or equal to 600px, then do {…}
+**C.** If [device width] is greater than or equal to 600px, then do {…}
 
 ## Problem 7
 
@@ -82,7 +82,7 @@
 > 3. @media (orientation: landscape), (max-width: 500px) {...}
 > 4. @media (orientation: landscape) or (max-width: 500px) {...}
 
-**C**. @media (orientation: landscape), (max-width: 500px) {...}
+**C.** @media (orientation: landscape), (max-width: 500px) {...}
 
 ## Problem 8
 
@@ -91,7 +91,7 @@
 > 1. True
 > 2. False
 
-**B**. False
+**B.** False
 
 ## Problem 9
 
@@ -101,7 +101,7 @@
 > 1. True
 > 2. False
 
-**A**. True
+**A.** True
 
 ## Problem 10
 
@@ -110,4 +110,4 @@
 > 1. True
 > 2. False
 
-**A**. True
+**A.** True

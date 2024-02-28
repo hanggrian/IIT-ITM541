@@ -11,7 +11,7 @@
 > 1. True
 > 2. False
 
-**B**. False
+**B.** False
 
 ## Problem 2
 
@@ -21,7 +21,7 @@
 > 1. True
 > 2. False
 
-**B**. False
+**B.** False
 
 ## Problem 3
 
@@ -32,7 +32,7 @@
 > 3. Web Storage API
 > 4. File API
 
-**A**. web sockets
+**A.** web sockets
 
 ## Problem 4
 
@@ -42,7 +42,7 @@
 > 1. True
 > 2. False
 
-**A**. True
+**A.** True
 
 ## Problem 5
 
@@ -52,7 +52,7 @@
 > 1. True
 > 2. False
 
-**B**. False
+**B.** False
 
 ## Problem 6
 
@@ -63,7 +63,7 @@
 > 3. localStorage
 > 4. globalStorage
 
-**C**. localStorage
+**C.** localStorage
 
 ## Problem 7
 
@@ -74,7 +74,7 @@
 > 3. rectangles
 > 4. diamond
 
-**C**. rectangles
+**C.** rectangles
 
 ## Problem 8
 
@@ -85,4 +85,4 @@
 > 3. options
 > 4. itemObserved
 
-**B**. callback
+**B.** callback

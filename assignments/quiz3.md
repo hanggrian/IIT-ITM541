@@ -12,7 +12,7 @@
 > 4. history
 > 5. commit
 
-**C**. log
+**C.** log
 
 ## Problem 2
 
@@ -21,7 +21,7 @@
 > 1. True
 > 2. False
 
-**A**. True
+**A.** True
 
 ## Problem 3
 
@@ -31,7 +31,7 @@
 > 1. True
 > 2. False
 
-**B**. False
+**B.** False
 
 ## Problem 4
 
@@ -40,7 +40,7 @@
 > 1. True
 > 2. False
 
-**A**. True
+**A.** True
 
 ## Problem 5
 
@@ -52,7 +52,7 @@
 > 3. section
 > 4. aside
 
-**B**. main
+**B.** main
 
 ## Problem 6
 
@@ -63,7 +63,7 @@
 > 2. embedded
 > 3. external
 
-**C**. external
+**C.** external
 
 ## Problem 7
 
@@ -74,7 +74,7 @@
 > 3. value
 > 4. declaration
 
-**A**. selector
+**A.** selector
 
 ## Problem 8
 
@@ -87,7 +87,7 @@
 > 4. relative
 > 5. static
 
-**C**. fixed
+**C.** fixed
 
 ## Problem 9
 
@@ -98,7 +98,7 @@
 > 3. element
 > 4. pseudo-element
 
-**A**. id
+**A.** id
 
 ## Problem 10
 
@@ -108,4 +108,4 @@
 > 1. content-box
 > 2. border-box
 
-**B**. border-box
+**B.** border-box

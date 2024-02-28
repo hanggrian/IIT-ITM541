@@ -12,7 +12,7 @@
 > 3. Media Query API
 > 4. Object Visiblity API
 
-**A**. Intersection Observer API
+**A.** Intersection Observer API
 
 ## Problem 2
 
@@ -21,7 +21,7 @@
 > 1. True
 > 2. False
 
-**B**. False
+**B.** False
 
 ## Problem 3
 
@@ -30,7 +30,7 @@
 > 1. True
 > 2. False
 
-**B**. False
+**B.** False
 
 ## Problem 4
 
@@ -41,7 +41,7 @@
 > 3. top left
 > 4. bottom right
 
-**C**. top left
+**C.** top left
 
 ## Problem 5
 
@@ -52,7 +52,7 @@
 > 3. circle
 > 4. arcTo
 
-**B**. arc
+**B.** arc
 
 ## Problem 6
 
@@ -62,7 +62,7 @@
 > 1. True
 > 2. False
 
-**A**. True
+**A.** True
 
 ## Problem 7
 
@@ -73,7 +73,7 @@
 > 3. Asynchronous API
 > 4. Can only store strings
 
-**D**. Can only store strings
+**D.** Can only store strings
 
 ## Problem 8
 
@@ -93,4 +93,4 @@
 > 3. A white triangle
 > 4. A gray triangle
 
-**D**. A gray triangle
+**D.** A gray triangle

@@ -9,7 +9,7 @@
 > 1. True
 > 2. False
 
-**A**. True
+**A.** True
 
 ## Problem 2
 
@@ -19,7 +19,7 @@
 > 1. True
 > 2. False
 
-**B**. False
+**B.** False
 
 ## Problem 3
 
@@ -29,7 +29,7 @@
 > 1. True
 > 2. False
 
-**A**. True
+**A.** True
 
 ## Problem 4
 
@@ -41,7 +41,7 @@
 > 3. object
 > 4. map
 
-**B**. set
+**B.** set
 
 ## Problem 5
 
@@ -53,7 +53,7 @@
 > 3. Constructor Function
 > 4. Constructor Function with Prototype
 
-**A**. Object Literal
+**A.** Object Literal
 
 ## Problem 6
 
@@ -65,4 +65,4 @@
 > 3. Multi-line string
 > 4. Rest and Spread parameters
 
-**A**. Object Member Visibility; public, private and priviledged
+**A.** Object Member Visibility; public, private and priviledged

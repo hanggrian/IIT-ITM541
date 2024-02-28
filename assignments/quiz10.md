@@ -10,7 +10,7 @@
 > 1. True
 > 2. False
 
-**B**. False
+**B.** False
 
 ## Problem 2
 
@@ -20,7 +20,7 @@
 > 1. True
 > 2. False
 
-**B**. False
+**B.** False
 
 ## Problem 3
 
@@ -30,7 +30,7 @@
 > 1. True
 > 2. False
 
-**A**. True
+**A.** True
 
 ## Problem 4
 
@@ -40,7 +40,7 @@
 > 1. True
 > 2. False
 
-**B**. False
+**B.** False
 
 ## Problem 5
 
@@ -49,7 +49,7 @@
 > 1. True
 > 2. False
 
-**A**. True
+**A.** True
 
 ## Problem 6
 
@@ -63,7 +63,7 @@
 > 1. True
 > 2. False
 
-**A**. True
+**A.** True
 
 ## Problem 7
 
@@ -76,7 +76,7 @@
 > 1. True
 > 2. False
 
-**A**. True
+**A.** True
 
 ## Problem 8
 
@@ -86,7 +86,7 @@
 > 1. True
 > 2. False
 
-**B**. False
+**B.** False
 
 ## Problem 9
 
@@ -98,7 +98,7 @@
 > 3. call
 > 4. apply
 
-**D**. apply
+**D.** apply
 
 ## Problem 10
 
@@ -108,7 +108,7 @@
 > 1. True
 > 2. False
 
-**A**. True
+**A.** True
 
 ## Problem 11
 
@@ -125,7 +125,7 @@
 > 1. True
 > 2. False
 
-**B**. False
+**B.** False
 
 ## Problem 12
 
@@ -140,4 +140,4 @@
 > 3. 3
 > 4. Syntax error
 
-**C**. 3
+**C.** 3

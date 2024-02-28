@@ -10,7 +10,7 @@
 > 1. True
 > 2. False
 
-**B**. False
+**B.** False
 
 ## Problem 2
 
@@ -21,7 +21,7 @@
 > 3. Renders
 > 4. Functions
 
-**B**. Props
+**B.** Props
 
 ## Problem 3
 
@@ -33,7 +33,7 @@
 > 3. Address
 > 4. Root element
 
-**B**. React element
+**B.** React element
 
 ## Problem 4
 
@@ -42,7 +42,7 @@
 > 1. True
 > 2. False
 
-**A**. True
+**A.** True
 
 ## Problem 5
 
@@ -62,7 +62,7 @@
 > 3. Parent
 > 4. Props
 
-**D**. Props
+**D.** Props
 
 ## Problem 6
 
@@ -73,4 +73,4 @@
 > 3. Created at Facebook by software engineer Jordan Walke
 > 4. Babel is used to convert JSX to plain JavaScript React calls.
 
-**C**. Created at Facebook by software engineer Jordan Walke
+**C.** Created at Facebook by software engineer Jordan Walke

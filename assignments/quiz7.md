@@ -9,7 +9,7 @@
 > 1. True
 > 2. False
 
-**A**. True
+**A.** True
 
 ## Problem 2
 
@@ -20,7 +20,7 @@
 > 3. Robert Cailliau
 > 4. Jesse James Garrett
 
-**D**. Jesse James Garrett
+**D.** Jesse James Garrett
 
 ## Problem 3
 
@@ -31,7 +31,7 @@
 > 3. whatwg
 > 4. Netscape
 
-**C**. whatwg
+**C.** whatwg
 
 ## Problem 4
 
@@ -42,7 +42,7 @@
 > 3. JSON is not a preferred option since it has disadvantages
 > 4. It allows for smaller incremental updates to the Ul
 
-**C**. JSON is not a preferred option since it has disadvantages
+**C.** JSON is not a preferred option since it has disadvantages
 
 ## Problem 5
 
@@ -53,7 +53,7 @@
 > 3. 200
 > 4. 4
 
-**D**. 4
+**D.** 4
 
 ## Problem 6
 
@@ -64,7 +64,7 @@
 > 3. Axios
 > 4. Ajaxlib
 
-**C**. Axios
+**C.** Axios
 
 ## Problem 7
 
@@ -77,7 +77,7 @@
 > 4. All variables by default are placed in the global window namespace when
      defined with the var keyword
 
-**C**. Variable names do not need to be unique
+**C.** Variable names do not need to be unique
 
 ## Problem 8
 
@@ -88,7 +88,7 @@
 > 3. &lt;sound&gt; &lt;/sound&gt;
 > 4. &lt;volume&gt; &lt;/volume&gt;
 
-**B**. &lt;audio&gt; &lt;/audio&gt;
+**B.** &lt;audio&gt; &lt;/audio&gt;
 
 ## Problem 9
 
@@ -98,7 +98,7 @@
 > 1. True
 > 2. False
 
-**A**. True
+**A.** True
 
 ## Problem 10
 
@@ -114,4 +114,4 @@
 > 1. True
 > 2. False
 
-**A**. True
+**A.** True
