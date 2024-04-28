@@ -7,8 +7,8 @@
 > The browser's location object is used to move through the user's browsing
   history.
 >
-> 1. True
-> 2. False
+> 1.  True
+> 1.  False
 
 **B.** False
 
@@ -17,8 +17,8 @@
 > The History AP's go() method can be passed a string value of a url to have the
   user's browser go to that new resource.
 >
-> 1. True
-> 2. False
+> 1.  True
+> 1.  False
 
 **B.** False
 
@@ -27,8 +27,8 @@
 > The History AP's pushState() method is used to add a new history entry to the
   user's browser history.
 >
-> 1. True
-> 2. False
+> 1.  True
+> 1.  False
 
 **A.** True
 
@@ -37,8 +37,8 @@
 > Internally the JavaScript Date object stores the date as a Number which is the
   number of seconds since January 1, 1970 UTC.
 >
-> 1. True
-> 2. False
+> 1.  True
+> 1.  False
 
 **B.** False
 
@@ -46,8 +46,8 @@
 
 > You can not instantiate an instance of the Math object with the new keyword.
 >
-> 1. True
-> 2. False
+> 1.  True
+> 1.  False
 
 **A.** True
 
@@ -60,8 +60,8 @@
 > let x = document.createElement('img');
 > ```
 >
-> 1. True
-> 2. False
+> 1.  True
+> 1.  False
 
 **A.** True
 
@@ -73,8 +73,8 @@
 > people.at(-1);
 > ```
 >
-> 1. True
-> 2. False
+> 1.  True
+> 1.  False
 
 **A.** True
 
@@ -83,8 +83,8 @@
 > The map() array method wil terate over an aray and run the function passed as
   the argument in order to modity each elementin the array it was caled on.
 >
-> 1. True
-> 2. False
+> 1.  True
+> 1.  False
 
 **B.** False
 
@@ -93,10 +93,10 @@
 > Which object function we discussed below will execute a function and pass as
   its arguments a new value of this and an array of additional arguments?
 >
-> 1. bind
-> 2. import
-> 3. call
-> 4. apply
+> 1.  bind
+> 1.  import
+> 1.  call
+> 1.  apply
 
 **D.** apply
 
@@ -105,8 +105,8 @@
 > When using ES6 modules any import statements must be the first lines in the
   module before any other code.
 >
-> 1. True
-> 2. False
+> 1.  True
+> 1.  False
 
 **A.** True
 
@@ -122,8 +122,8 @@
 > </script>
 > ```
 >
-> 1. True
-> 2. False
+> 1.  True
+> 1.  False
 
 **B.** False
 
@@ -135,9 +135,9 @@
 > Math.sqrt(Math.floor(9.5));
 > ```
 >
-> 1. 3.08
-> 2. NaN
-> 3. 3
-> 4. Syntax error
+> 1.  3.08
+> 1.  NaN
+> 1.  3
+> 1.  Syntax error
 
 **C.** 3

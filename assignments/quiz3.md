@@ -6,11 +6,11 @@
 
 > Which Git command is used to show a history of the commits?
 >
-> 1. init
-> 2. status
-> 3. log
-> 4. history
-> 5. commit
+> 1.  init
+> 1.  status
+> 1.  log
+> 1.  history
+> 1.  commit
 
 **C.** log
 
@@ -18,8 +18,8 @@
 
 > Files must be staged before they can be commited in Git.
 >
-> 1. True
-> 2. False
+> 1.  True
+> 1.  False
 
 **A.** True
 
@@ -28,8 +28,8 @@
 > In an HTML element an attribute's value is never required to have quote marks
   wrapping it.
 >
-> 1. True
-> 2. False
+> 1.  True
+> 1.  False
 
 **B.** False
 
@@ -37,8 +37,8 @@
 
 > HTML block elements should not be nested inside an inline element.
 >
-> 1. True
-> 2. False
+> 1.  True
+> 1.  False
 
 **A.** True
 
@@ -47,10 +47,10 @@
 > Which HTML5 structural element should you wrap the dominant content of the
   body of a document?
 >
-> 1. article
-> 2. main
-> 3. section
-> 4. aside
+> 1.  article
+> 1.  main
+> 1.  section
+> 1.  aside
 
 **B.** main
 
@@ -59,9 +59,9 @@
 > Which of the 3 ways you can add CSS to a page is generally considered the best
   method?
 >
-> 1. inline
-> 2. embedded
-> 3. external
+> 1.  inline
+> 1.  embedded
+> 1.  external
 
 **C.** external
 
@@ -69,10 +69,10 @@
 
 > Which part of a CSS ruleset is used to define the element the rule applies to?
 >
-> 1. selector
-> 2. property
-> 3. value
-> 4. declaration
+> 1.  selector
+> 1.  property
+> 1.  value
+> 1.  declaration
 
 **A.** selector
 
@@ -81,11 +81,11 @@
 > Which CSS Position value takes the element out of the normal flow of the
   document and positions it based on the browser viewport?
 >
-> 1. absolute
-> 2. sticky
-> 3. fixed
-> 4. relative
-> 5. static
+> 1.  absolute
+> 1.  sticky
+> 1.  fixed
+> 1.  relative
+> 1.  static
 
 **C.** fixed
 
@@ -93,10 +93,10 @@
 
 > In the CSS specificity algorithm what selector element gives the most weight?
 >
-> 1. id
-> 2. class
-> 3. element
-> 4. pseudo-element
+> 1.  id
+> 1.  class
+> 1.  element
+> 1.  pseudo-element
 
 **A.** id
 
@@ -105,7 +105,7 @@
 > What CSS box-sizing value will include padding and border sizes in any width
   or height you have defined?
 >
-> 1. content-box
-> 2. border-box
+> 1.  content-box
+> 1.  border-box
 
 **B.** border-box

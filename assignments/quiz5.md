@@ -6,10 +6,10 @@
 
 > Which one is NOT one of the transform series of functions discussed in class?
 >
-> 1. scale
-> 2. keyframes
-> 3. rotate
-> 4. skew
+> 1.  scale
+> 1.  keyframes
+> 1.  rotate
+> 1.  skew
 
 **B.** keyframes
 
@@ -17,10 +17,10 @@
 
 > Which JavaScript keyword will declare a variable with block scope?
 >
-> 1. var
-> 2. let
-> 3. global
-> 4. const
+> 1.  var
+> 1.  let
+> 1.  global
+> 1.  const
 
 **B.** let
 
@@ -32,10 +32,10 @@
 > 0010 1110
 > ```
 >
-> 1. 46
-> 2. 14
-> 3. 30
-> 4. 48
+> 1.  46
+> 1.  14
+> 1.  30
+> 1.  48
 
 **A.** 46
 
@@ -43,10 +43,10 @@
 
 > Which of the following is not a JavaScript primitive value type?
 >
-> 1. null
-> 2. function
-> 3. number
-> 4. biginit
+> 1.  null
+> 1.  function
+> 1.  number
+> 1.  biginit
 
 **B.** function
 
@@ -60,10 +60,10 @@
 > }
 > ```
 >
-> 1. Move img right 200px
-> 2. Move img up 200px
-> 3. Move img down 200px
-> 4. Move img left 200px
+> 1.  Move img right 200px
+> 1.  Move img up 200px
+> 1.  Move img down 200px
+> 1.  Move img left 200px
 
 **D.** Move img left 200px
 
@@ -75,10 +75,10 @@
 > console.log(10 + "5")
 > ```
 >
-> 1. 105
-> 2. 10
-> 3. 15
-> 4. 510
+> 1.  105
+> 1.  10
+> 1.  15
+> 1.  510
 
 **A.** 105
 
@@ -87,10 +87,10 @@
 > Which method of defining a function in JavaScript requires you to define the
   function before you can call it?
 >
-> 1. Function invoke
-> 2. Function expression
-> 3. Function declaration
-> 4. Function name
+> 1.  Function invoke
+> 1.  Function expression
+> 1.  Function declaration
+> 1.  Function name
 
 **B.** Function expression
 
@@ -100,8 +100,8 @@
   JavaScript file it will cause the browser to download the file while the page
   is parsing but wait to execute until the page is finished parsing.
 >
-> 1. True
-> 2. False
+> 1.  True
+> 1.  False
 
 **A.** True
 
@@ -109,8 +109,8 @@
 
 > The first element in a JavaScript array is at index 1.
 >
-> 1. True
-> 2. False
+> 1.  True
+> 1.  False
 
 **B.** False
 
@@ -119,7 +119,7 @@
 > In JavaScript, you must use dot notation to access the value of a property on
   an object.
 >
-> 1. True
-> 2. False
+> 1.  True
+> 1.  False
 
 **B.** False

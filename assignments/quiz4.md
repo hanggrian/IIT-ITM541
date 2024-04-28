@@ -6,10 +6,10 @@
 
 > Which one of these is NOT a CSS Page Layout Technique?
 >
-> 1. Button Layout
-> 2. Multi-column Layout
-> 3. Flexbox
-> 4. Table Layout
+> 1.  Button Layout
+> 1.  Multi-column Layout
+> 1.  Flexbox
+> 1.  Table Layout
 
 **A.** Button Layout
 
@@ -17,10 +17,10 @@
 
 > What are the two main modern display layout values for Display Property?
 >
-> 1. Flexbox and Grid
-> 2. Table Layout and Multi-column layout
-> 3. Display Property and Positioning
-> 4. Normal Flow and Floats
+> 1.  Flexbox and Grid
+> 1.  Table Layout and Multi-column layout
+> 1.  Display Property and Positioning
+> 1.  Normal Flow and Floats
 
 **A.** Flexbox and Grid
 
@@ -28,10 +28,10 @@
 
 > Which CSS Page Layout is designed for two-dimensional layout?
 >
-> 1. Table Layout
-> 2. Multi-column layout
-> 3. Grid
-> 4. Flexbox
+> 1.  Table Layout
+> 1.  Multi-column layout
+> 1.  Grid
+> 1.  Flexbox
 
 **C.** Grid
 
@@ -40,10 +40,10 @@
 > Reponsive Design was made primarily of three techniques together. Which one is
   NOT one of the techniques?
 >
-> 1. Fluid Images
-> 2. Fluid Flexbox
-> 3. Fluid Grids/layouts
-> 4. Media Queries
+> 1.  Fluid Images
+> 1.  Fluid Flexbox
+> 1.  Fluid Grids/layouts
+> 1.  Media Queries
 
 **B.** Fluid Flexbox
 
@@ -51,10 +51,10 @@
 
 > Which one is the correct way to define media queries?
 >
-> 1. `@media` type and (feature)
-> 2. `@media` art and position
-> 3. `&media` type and (feature)
-> 4. `#media` type and (feature)
+> 1.  `@media` type and (feature)
+> 1.  `@media` art and position
+> 1.  `&media` type and (feature)
+> 1.  `#media` type and (feature)
 
 **A.** `@media` type and (feature)
 
@@ -66,10 +66,10 @@
 > @media only screen and (min-width: 600px) {...)
 > ```
 >
-> 1. If [image] is less than or equal to 600px, then do {…}
-> 2. If [image] is greater than or equal to 600px, then do {…}
-> 3. If [device width] is greater than or equal to 600px, then do {…}
-> 4. If [device width] is less than or equal to 600px, then do {…}
+> 1.  If [image] is less than or equal to 600px, then do {…}
+> 1.  If [image] is greater than or equal to 600px, then do {…}
+> 1.  If [device width] is greater than or equal to 600px, then do {…}
+> 1.  If [device width] is less than or equal to 600px, then do {…}
 
 **C.** If [device width] is greater than or equal to 600px, then do {…}
 
@@ -77,10 +77,10 @@
 
 > Which is the correct way to define an OR condition for a media querie?
 >
-> 1. @media (orientation: landscape): (max-width: 500px) {...}
-> 2. @media (orientation: landscape) and (max-width: 500px) {...}
-> 3. @media (orientation: landscape), (max-width: 500px) {...}
-> 4. @media (orientation: landscape) or (max-width: 500px) {...}
+> 1.  @media (orientation: landscape): (max-width: 500px) {...}
+> 1.  @media (orientation: landscape) and (max-width: 500px) {...}
+> 1.  @media (orientation: landscape), (max-width: 500px) {...}
+> 1.  @media (orientation: landscape) or (max-width: 500px) {...}
 
 **C.** @media (orientation: landscape), (max-width: 500px) {...}
 
@@ -88,8 +88,8 @@
 
 > True or False, The concept of responsive design came along in 1999?
 >
-> 1. True
-> 2. False
+> 1.  True
+> 1.  False
 
 **B.** False
 
@@ -98,8 +98,8 @@
 > True or False, In CSS Grid the column-gap and row-gap are used to create gaps
   between tracks?
 >
-> 1. True
-> 2. False
+> 1.  True
+> 1.  False
 
 **A.** True
 
@@ -107,7 +107,7 @@
 
 > True or False, Sticky is one of the CSS position property values?
 >
-> 1. True
-> 2. False
+> 1.  True
+> 1.  False
 
 **A.** True

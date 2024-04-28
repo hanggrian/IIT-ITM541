@@ -6,8 +6,8 @@
 
 > JavaScript is a version of the Java programming language.
 >
-> 1. True
-> 2. False
+> 1.  True
+> 1.  False
 
 **B.** False
 
@@ -16,10 +16,10 @@
 > What built-in function would you use to convert JavaScript objects to JSON
   text?
 >
-> 1. JSON.parse()
-> 2. JSON.stringiy()
-> 3. JSON. string()
-> 4. parse()
+> 1.  JSON.parse()
+> 1.  JSON.stringiy()
+> 1.  JSON. string()
+> 1.  parse()
 
 **B.** JSON.stringify()
 
@@ -27,8 +27,8 @@
 
 > JavaScript code is case-sensitive.
 >
-> 1. True
-> 2. False
+> 1.  True
+> 1.  False
 
 **A.** True
 
@@ -37,8 +37,8 @@
 > By default when the browser encounters JavaScript code it stops parsing the
   page completely to execute the code
 >
-> 1. True
-> 2. False
+> 1.  True
+> 1.  False
 
 **A.** True
 
@@ -46,8 +46,8 @@
 
 > You use npm to install the webpack JavaScript module bundler.
 >
-> 1. True
-> 2. False
+> 1.  True
+> 1.  False
 
 **A.** True
 
@@ -57,8 +57,8 @@
   of the HTTP verbs (GET, POST, PUT, DELETE) as the action attribute of a
   regular HTML form.
 >
-> 1. True
-> 2. False
+> 1.  True
+> 1.  False
 
 **B.** False
 
@@ -71,8 +71,8 @@
 > var coords = navigator.geolocation.getCurrentPosition();
 > ```
 >
-> 1. True
-> 2. False
+> 1.  True
+> 1.  False
 
 **B.** False
 
@@ -81,8 +81,8 @@
 > The `navigator.geolocation.watch()` method will allow you to consistently
   monitor a browsers location.
 >
-> 1. True
-> 2. False
+> 1.  True
+> 1.  False
 
 **B.** False
 
@@ -90,8 +90,8 @@
 
 > Node JS was built from the Google's V8 JavaScript Engine.
 >
-> 1. True
-> 2. False
+> 1.  True
+> 1.  False
 
 **A.** True
 
@@ -100,10 +100,10 @@
 > In the HTML 5 canvas API where is the default location of the `(0, 0)`
   coordinate?
 >
-> 1. top left
-> 2. top right
-> 3. bottom right
-> 4. bottom left
+> 1.  top left
+> 1.  top right
+> 1.  bottom right
+> 1.  bottom left
 
 **A.** top left
 
@@ -112,8 +112,8 @@
 > All HTML 5 canvas drawing commands must be started with the `beginPath()`
   command.
 >
-> 1. True
-> 2. False
+> 1.  True
+> 1.  False
 
 **B.** False
 
@@ -121,13 +121,13 @@
 
 > What is the best way to attach an event handler to an element?
 >
-> 1. It is not possible
-> 2. As an attribute on the HTML element.
-    `<span onclick="eventHandler()"></span>`
-> 3. As a method attached to a DOM object.
-    `document.getElementByld(myld).onclick = eventHandler;`
-> 4. Using the add event listener method on a DOM object.
-    `document.getElementByld(myld').addEventListener(click', eventHandler, false);`
+> 1.  It is not possible
+> 1.  As an attribute on the HTML element.
+      `<span onclick="eventHandler()"></span>`
+> 1.  As a method attached to a DOM object.
+      `document.getElementByld(myld).onclick = eventHandler;`
+> 1.  Using the add event listener method on a DOM object.
+      `document.getElementByld(myld').addEventListener(click', eventHandler, false);`
 
 **D.** Using the add event listener method on a DOM object.
 
@@ -135,10 +135,10 @@
 
 > Which JavaScript operator do you use to calculate the remainder of a division?
 >
-> 1. %
-> 2. *
-> 3. /
-> 4. +
+> 1.  %
+> 1.  *
+> 1.  /
+> 1.  +
 
 **A.** %
 
@@ -153,8 +153,8 @@
 > };
 > ```
 >
-> 1. True
-> 2. False
+> 1.  True
+> 1.  False
 
 **A.** True
 
@@ -163,8 +163,8 @@
 > It is possible to modify something already drawn to the canvas after you have
   called the drawing commands on the context in the HTML5 canvas API.
 >
-> 1. True
-> 2. False
+> 1.  True
+> 1.  False
 
 **B.** False
 
@@ -181,10 +181,10 @@
 > }
 > ```
 >
-> 1. 0
-> 2. 5
-> 3. Undefined
-> 4. Null
+> 1.  0
+> 1.  5
+> 1.  Undefined
+> 1.  Null
 
 **B.** 5
 
@@ -192,10 +192,10 @@
 
 > Which of the following is NOT a valid JavaScript variable name?
 >
-> 1. _myVariable
-> 2. $myVariable
-> 3. 2myVariable
-> 4. All of them are valid
+> 1.  _myVariable
+> 1.  $myVariable
+> 1.  2myVariable
+> 1.  All of them are valid
 
 **C.** 2myVariable
 
@@ -203,10 +203,10 @@
 
 > Which is NOT true about the HTML5 Indexed DB API?
 >
-> 1. Can store complex JavaScript objects directly in a key
-> 2. Asynchronous API that uses a lot of function callbacks
-> 3. Can use SQL syntax to access data in the database
-> 4. Storage limit that is greater than HTML5 localStorage
+> 1.  Can store complex JavaScript objects directly in a key
+> 1.  Asynchronous API that uses a lot of function callbacks
+> 1.  Can use SQL syntax to access data in the database
+> 1.  Storage limit that is greater than HTML5 localStorage
 
 **C.** Can use SQL syntax to access data in the database
 
@@ -214,10 +214,10 @@
 
 > Which is NOT true about the DOM api?
 >
-> 1. It represents all the elements of an HTML or XML Document as Objects
-> 2. It is a collection of nodes in a nested tree
-> 3. It can only be used in the JavaScript language
-> 4. Provides methods to transverse, access, and modify elements
+> 1.  It represents all the elements of an HTML or XML Document as Objects
+> 1.  It is a collection of nodes in a nested tree
+> 1.  It can only be used in the JavaScript language
+> 1.  Provides methods to transverse, access, and modify elements
 
 **C.** It can only be used in the JavaScript language
 
@@ -225,10 +225,10 @@
 
 > Which event occurs when the user clicks on an HTML element?
 >
-> 1. onmouseclick
-> 2. onclick
-> 3. onmouseover
-> 4. onchange
+> 1.  onmouseclick
+> 1.  onclick
+> 1.  onmouseover
+> 1.  onchange
 
 **B.** onclick
 
@@ -272,8 +272,8 @@
 > You must use the `sessionStorage.getItem(myKey, 'myData')` method to retrieve
   data in the HTML5 sessionStorage.
 >
-> 1. True
-> 2. False
+> 1.  True
+> 1.  False
 
 **B.** False
 
@@ -297,10 +297,10 @@
 >
 > Which of the following is a valid expression?
 >
-> 1. myPerson.fname
-> 2. myPerson.fullName
-> 3. myPerson.print()
-> 4. myPerson.render()
+> 1.  myPerson.fname
+> 1.  myPerson.fullName
+> 1.  myPerson.print()
+> 1.  myPerson.render()
 
 **D.** myPerson.render()
 
@@ -378,8 +378,8 @@
 > A do while loop does not evaluate the condition before it executes the block
   of code the first time.
 >
-> 1. True
-> 2. False
+> 1.  True
+> 1.  False
 
 **A.** True
 
@@ -387,8 +387,8 @@
 
 > JavaScript variables declared with var have block scope
 >
-> 1. True
-> 2. False
+> 1.  True
+> 1.  False
 
 **B.** False
 
@@ -396,10 +396,10 @@
 
 > JavaScript was originally developed by who?
 >
-> 1. Brendan Eich
-> 2. Marc Andreessen
-> 3. Douglas Crockford
-> 4. Tim Berners-Lee
+> 1.  Brendan Eich
+> 1.  Marc Andreessen
+> 1.  Douglas Crockford
+> 1.  Tim Berners-Lee
 
 **A.** Brendan Eich
 
@@ -407,10 +407,10 @@
 
 > In ES6 what keyword declares a block scoped variable?
 >
-> 1. const
-> 2. var
-> 3. let
-> 4. this
+> 1.  const
+> 1.  var
+> 1.  let
+> 1.  this
 
 **C.** let
 
@@ -418,8 +418,8 @@
 
 > React was first created at Google and open sourced in March 2015.
 >
-> 1. True
-> 2. False
+> 1.  True
+> 1.  False
 
 **B.** False
 
@@ -431,8 +431,8 @@
 > (5 == '5')
 > ```
 >
-> 1. True
-> 2. False
+> 1.  True
+> 1.  False
 
 **A.** True
 
@@ -441,8 +441,8 @@
 > In React JS, properties or props are passed back and forth between parent and
   child components and modified directly to save persistant data changes
 >
-> 1. True
-> 2. False
+> 1.  True
+> 1.  False
 
 **B.** False
 
@@ -451,10 +451,10 @@
 > In React JS, what is the only required method you must define in a class
   component?
 >
-> 1. render()
-> 2. constructor()
-> 3. return
-> 4. componentDidMount()
+> 1.  render()
+> 1.  constructor()
+> 1.  return
+> 1.  componentDidMount()
 
 **A.** render()
 
@@ -467,8 +467,8 @@
 > this.state.comment = "Hello";
 > ```
 >
-> 1. True
-> 2. False
+> 1.  True
+> 1.  False
 
 **B.** False
 
@@ -476,10 +476,10 @@
 
 > How does JavaScript store dates in objects of Date type?
 >
-> 1. The number of days since January 1, 1970.
-> 2. The number of seconds since January 1, 1970.
-> 3. The number of milliseconds since January 1, 1970.
-> 4. The number of minutes since January 1, 1970.
+> 1.  The number of days since January 1, 1970.
+> 1.  The number of seconds since January 1, 1970.
+> 1.  The number of milliseconds since January 1, 1970.
+> 1.  The number of minutes since January 1, 1970.
 
 **C.** The number of milliseconds since January 1, 1970.
 
@@ -488,8 +488,8 @@
 > If you use JSX in React JS it is optional to use babel or another tool to
   convert it to plain JS
 >
-> 1. True
-> 2. False
+> 1.  True
+> 1.  False
 
 **A.** True
 
@@ -498,10 +498,10 @@
 > Which React component lifecycle method is the recommended place to do all your
   initial AJAX calls.
 >
-> 1. constructor
-> 2. componentDidMount
-> 3. componentWillUnmount
-> 4. componentWillUpdate
+> 1.  constructor
+> 1.  componentDidMount
+> 1.  componentWillUnmount
+> 1.  componentWillUpdate
 
 **B.** componentDidMount
 
@@ -509,10 +509,10 @@
 
 > How do you evaluate a JavaScript variable or expression inside JSX syntax?
 >
-> 1. [variable]
-> 2. {variable}
-> 3. Svariable
-> 4. &variable
+> 1.  [variable]
+> 1.  {variable}
+> 1.  Svariable
+> 1.  &variable
 
 **B.** {variable}
 
@@ -530,10 +530,10 @@
 > }
 > ```
 >
-> 1. 10
-> 2. 5
-> 3. Null
-> 4. Nan
+> 1.  10
+> 1.  5
+> 1.  Null
+> 1.  Nan
 
 **A.** 10
 
@@ -545,8 +545,8 @@
 > (0.1 + 0.2 === 0.3 )
 > ```
 >
-> 1. True
-> 2. False
+> 1.  True
+> 1.  False
 
 **B.** False
 
@@ -555,10 +555,10 @@
 > Which DOM method is used to select the first element found based on a css
   selector string?
 >
-> 1. getElementByld()
-> 2. getElementsByClassName()
-> 3. getElementsByTagName()
-> 4. document.querySelector()
+> 1.  getElementByld()
+> 1.  getElementsByClassName()
+> 1.  getElementsByTagName()
+> 1.  document.querySelector()
 
 **D.** document.querySelector()
 
@@ -566,8 +566,8 @@
 
 > The `type="module"` is required on any script tag that use ES6 Modules.
 >
-> 1. True
-> 2. False
+> 1.  True
+> 1.  False
 
 **A.** True
 
@@ -582,10 +582,10 @@
 > seconds.type = 'cake';
 > ```
 >
-> 1. pizza
-> 2. sandwich
-> 3. cake
-> 4. food
+> 1.  pizza
+> 1.  sandwich
+> 1.  cake
+> 1.  food
 
 **C.** cake
 
@@ -599,10 +599,10 @@
 > console.log(animals);
 > ```
 >
-> 1. ["Bird", "Dog", "Cat"]
-> 2. ["Bird", "Dog", "Cat", "Fish"]
-> 3. ["Cat", "Fish"]
-> 4. ["Bird", "Dog"]
+> 1.  ["Bird", "Dog", "Cat"]
+> 1.  ["Bird", "Dog", "Cat", "Fish"]
+> 1.  ["Cat", "Fish"]
+> 1.  ["Bird", "Dog"]
 
 **C.** ["Cat", "Fish"]
 
@@ -610,10 +610,10 @@
 
 > What is data passed to React components as?
 >
-> 1. Elements
-> 2. Props
-> 3. Renders
-> 4. Functions
+> 1.  Elements
+> 1.  Props
+> 1.  Renders
+> 1.  Functions
 
 **B.** Props
 
@@ -622,8 +622,8 @@
 > As a build tool, babel's job is to combine all the JS module imports in
   separate files into a single file.
 >
-> 1. True
-> 2. False
+> 1.  True
+> 1.  False
 
 **B.** False
 
@@ -632,10 +632,10 @@
 > A component is a function or a Class which optionally accepts input and
   returns a ______.
 >
-> 1. Function
-> 2. React element
-> 3. Address
-> 4. Root element
+> 1.  Function
+> 1.  React element
+> 1.  Address
+> 1.  Root element
 
 **B.** React element
 
@@ -652,9 +652,9 @@
 > }
 > ```
 >
-> 1. Types
-> 2. Props
-> 3. Children
-> 4. Parents
+> 1.  Types
+> 1.  Props
+> 1.  Children
+> 1.  Parents
 
 **A.** Types

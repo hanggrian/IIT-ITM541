@@ -7,10 +7,10 @@
 > Which Web API can be used to determine if an element is visible in the
   viewport?
 >
-> 1. Intersection Observer API
-> 2. Geolocation API
-> 3. Media Query API
-> 4. Object Visiblity API
+> 1.  Intersection Observer API
+> 1.  Geolocation API
+> 1.  Media Query API
+> 1.  Object Visiblity API
 
 **A.** Intersection Observer API
 
@@ -18,8 +18,8 @@
 
 > The File Access API lets you read any file on a user's computer.
 >
-> 1. True
-> 2. False
+> 1.  True
+> 1.  False
 
 **B.** False
 
@@ -27,8 +27,8 @@
 
 > Canvas API is a vector drawing API
 >
-> 1. True
-> 2. False
+> 1.  True
+> 1.  False
 
 **B.** False
 
@@ -36,10 +36,10 @@
 
 > Where is the (0, 0) point on the HTML Canvas API by default?
 >
-> 1. top right
-> 2. bottom left
-> 3. top left
-> 4. bottom right
+> 1.  top right
+> 1.  bottom left
+> 1.  top left
+> 1.  bottom right
 
 **C.** top left
 
@@ -47,10 +47,10 @@
 
 > Which HTML Canvas API path method did I use to draw a circle in class?
 >
-> 1. bezierCurveTo
-> 2. arc
-> 3. circle
-> 4. arcTo
+> 1.  bezierCurveTo
+> 1.  arc
+> 1.  circle
+> 1.  arcTo
 
 **B.** arc
 
@@ -59,8 +59,8 @@
 > Fill or stroke style must be set before you call any drawing commands on the
   context.
 >
-> 1. True
-> 2. False
+> 1.  True
+> 1.  False
 
 **A.** True
 
@@ -68,10 +68,10 @@
 
 > What is not true about the Indexed DB API?
 >
-> 1. Store and retrieve data based on keys
-> 2. non-sal based
-> 3. Asynchronous API
-> 4. Can only store strings
+> 1.  Store and retrieve data based on keys
+> 1.  non-sal based
+> 1.  Asynchronous API
+> 1.  Can only store strings
 
 **D.** Can only store strings
 
@@ -88,9 +88,9 @@
 > cx.fill();
 > ```
 >
-> 1. A red rectangle
-> 2. A red square
-> 3. A white triangle
-> 4. A gray triangle
+> 1.  A red rectangle
+> 1.  A red square
+> 1.  A white triangle
+> 1.  A gray triangle
 
 **D.** A gray triangle

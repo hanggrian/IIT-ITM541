@@ -7,8 +7,8 @@
 > As a build tool, babel's job is to combine all the JS module imports in
   separate files into a single file.
 >
-> 1. True
-> 2. False
+> 1.  True
+> 1.  False
 
 **B.** False
 
@@ -16,10 +16,10 @@
 
 > What is data passed to React components as?
 >
-> 1. Elements
-> 2. Props
-> 3. Renders
-> 4. Functions
+> 1.  Elements
+> 1.  Props
+> 1.  Renders
+> 1.  Functions
 
 **B.** Props
 
@@ -28,10 +28,10 @@
 > A component is a function or a Class which optionally accepts input and
   returns a ______.
 >
-> 1. Function
-> 2. React element
-> 3. Address
-> 4. Root element
+> 1.  Function
+> 1.  React element
+> 1.  Address
+> 1.  Root element
 
 **B.** React element
 
@@ -39,8 +39,8 @@
 
 > The only required method in the component class is the render function.
 >
-> 1. True
-> 2. False
+> 1.  True
+> 1.  False
 
 **A.** True
 
@@ -57,10 +57,10 @@
 > }
 > ```
 >
-> 1. Туре
-> 2. Children
-> 3. Parent
-> 4. Props
+> 1.  Туре
+> 1.  Children
+> 1.  Parent
+> 1.  Props
 
 **D.** Props
 
@@ -68,9 +68,9 @@
 
 > Which one of these is NOT true for Babel:
 >
-> 1. Babel can be directly used in the browser for development purposes
-> 2. Babel can also compile our ES6+ to ES5
-> 3. Created at Facebook by software engineer Jordan Walke
-> 4. Babel is used to convert JSX to plain JavaScript React calls.
+> 1.  Babel can be directly used in the browser for development purposes
+> 1.  Babel can also compile our ES6+ to ES5
+> 1.  Created at Facebook by software engineer Jordan Walke
+> 1.  Babel is used to convert JSX to plain JavaScript React calls.
 
 **C.** Created at Facebook by software engineer Jordan Walke
